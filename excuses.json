@@ -289,6 +289,9 @@
     { "excuse": "I don’t know if I should git push or git pull—everything’s broken either way.", "source": "ChatGPT" },
     { "excuse": "I tried to git rebase, but I’m just re-basing my frustration with every new conflict.", "source": "ChatGPT" },
     { "excuse": "We didn’t write unit tests because we the code was self-explanatory.", "source": "ChatGPT" },
+    { "excuse": "I did a quick fix—nothing major, just 150 lines of untested code.", "source": "ChatGPT" },
+    { "excuse": "Oh yes, the famous bug… we should probably give it its own documentation.", "source": "ChatGPT" },
+    { "excuse": "I fixed a bug in the legacy code, but it might have left some unintended improvements.", "source": "ChatGPT" },
 	  { "excuse": "Actually, that's a feature.", "source": "https://github.com/afreeorange/developer-excuses/blob/master/excuses.txt" },
 	  { "excuse": "Are you sure you don't have a problem with your internet connection?", "source": "https://github.com/afreeorange/developer-excuses/blob/master/excuses.txt" },
 	  { "excuse": "Are you sure you want it to work that way?", "source": "https://github.com/afreeorange/developer-excuses/blob/master/excuses.txt" },
@@ -579,6 +582,10 @@
     { "excuse": "The database must have gotten corrupted", "source": "original" },
     { "excuse": "I can probably fix it now.", "source": "original" },
     { "excuse": "Who needs unit tests when you can test in production?", "source": "original" },
-    { "excuse": "The user broke it.", "source": "original" }
+    { "excuse": "The user broke it.", "source": "original" },
+    { "excuse": "I’ll comment out this code, then the problem is fixed.", "source": "original" },
+    { "excuse": "In theory, this should work. Let's push it to production to test it.", "source": "original" },
+    { "excuse": "When I wrote this code, only God and I understood what I did. Now only God knows.", "source": "general" },
+    { "excuse": "If it ain’t broke, don’t fix it.", "source": "general" }
   ]
 }
