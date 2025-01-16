@@ -586,6 +586,7 @@
     { "excuse": "I’ll comment out this code, then the problem is fixed.", "source": "original" },
     { "excuse": "In theory, this should work. Let's push it to production to test it.", "source": "original" },
     { "excuse": "When I wrote this code, only God and I understood what I did. Now only God knows.", "source": "general" },
-    { "excuse": "If it ain’t broke, don’t fix it.", "source": "general" }
+    { "excuse": "If it ain’t broke, don’t fix it.", "source": "general" },
+    { "excuse": "I was able to stitch these components together like a baby Frankenstein monster", "source": "https://dev.to/wheeleruniverse/getting-hands-on-with-blazor-nextjs-and-vercel-gg0"}
   ]
 }
