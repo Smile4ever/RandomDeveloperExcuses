@@ -15,9 +15,17 @@ export default function Home() {
   }, []);
 
   return (
-    <div style={styles.container}>
-      <div style={styles.excuse}>{excuse}</div>
-    </div>
+    <>
+      <div style={styles.container}>
+        <div style={styles.excuse}>{excuse}</div>
+      </div>
+      <style jsx global>{`
+        body {
+          margin: 0;
+          overflow: hidden;
+        }
+      `}</style>
+    </>
   );
 }
 
